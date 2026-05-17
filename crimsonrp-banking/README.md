@@ -1,5 +1,5 @@
 
-tis is a fork of vorp banking 
+this is a fork of vorp banking 
 
 You can use these exports in other scripts (e.g., banking or salary systems) to interact with the CrimsonRP-Society data.
 
